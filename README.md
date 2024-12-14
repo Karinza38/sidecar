@@ -1,4 +1,4 @@
-containerbase sidecar
+ containerbase sidecar
 
 [![Build status](https://github.com/containerbase/sidecar/actions/workflows/build.yml/badge.svg)](https://github.com/containerbase/sidecar/actions/workflows/build.yml?query=branch%3Amain)
 [![Docker Image Size](https://badgen.net/docker/size/containerbase/sidecar/latest)](https://hub.docker.com/r/containerbase/sidecar)
